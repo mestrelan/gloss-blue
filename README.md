@@ -1,14 +1,16 @@
-# gloss-blue
-Este repositório inclui os detalhes de implementação, os códigos e os dados do DVC-CSI, que identifica a atividade de varrer o piso por meio da análise de dados CSI e inclui o conjunto de dados usado para sua avaliação.
+# SFD-CSI_CBMS2025
+This repository include the implementation details, the codes and data of the SFD-CSI, which identifies the floor-sweeping activity of a person in a room through the analysis of CSI data and include the dataset used for its evaluation.
 
-Os dados de treinamento precisam ser baixados em: https://drive.google.com/drive/folders/1nLsUF7PGiKOX0apQNZO9mkvgkDjAzrZm?usp=sharing
+Train dataloader need to be download in: https://drive.google.com/drive/folders/1nLsUF7PGiKOX0apQNZO9mkvgkDjAzrZm?usp=sharing
 
-=====================
 
-Respondeu Jesus: "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim."
 
-João 14:6 NVI
+====================
+
+Jesus answered, ‘I am the way and the truth and the life. No-one comes to the Father except through me.
+
+John 14:6 NIVUK
 
 https://bible.com/bible/129/jhn.14.6.NVI
 
-allancostans.blogspot.com
+allancostans.blogspot.com 
